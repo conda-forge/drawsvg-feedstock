@@ -19,16 +19,15 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - cairosvg
-    - imageio
-    - ipywidgets
-    - numpy
+    - cairosvg ~=2.3
+    - imageio ~=2.5
+    - numpy ~=1.16
+    - pwkit ~=1.0
     - python >=3.6
 
 test:
   imports:
-    - drawSvg
-    - drawSvg.widgets
+    - drawsvg
   commands:
     - pip check
   requires:

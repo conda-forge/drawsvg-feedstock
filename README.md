@@ -1,11 +1,11 @@
-About drawsvg
-=============
+About drawsvg-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/drawsvg-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cduck/drawSvg
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/drawsvg-feedstock/blob/main/LICENSE.txt)
 
 Summary: Library for programmatically generating SVG images
 
